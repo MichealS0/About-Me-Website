@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.background {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.388), rgba(0, 0, 0, 1)), url(GravityFalls.jpg);
+    background-size: 1920px 1080px;
+}
